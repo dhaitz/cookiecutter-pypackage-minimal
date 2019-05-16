@@ -1,4 +1,4 @@
-# cookiecutter-pypackage-minimal
+# cookiecutter-pypackage-most-minimal
 
 Differences to https://github.com/kragniz/cookiecutter-pypackage-minimal:
 
